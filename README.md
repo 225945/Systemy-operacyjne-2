@@ -1,5 +1,5 @@
-# Systemy-operacyjne-2
-Zadania z laboratorium z SO2. Prowadzący: inż. Szymon Datko
+# Systemy operacyjne 2
+Skrypty pisane na laboratorium - na ocenę 3.0. Prowadzący: inż. Szymon Datko
 
 # Skrypt 24:
 Napisz skrypt, który wyświetli nazwy wszystkich dowiązań symbolicznych z danego katalogu (parametr wywołania skryptu), a jeśli są to dowiązania poprawne (wskazywane elementy istnieją) to dodatkowo wyświetlona zostanie ścieżka wskazywana przez to dowiązanie.
