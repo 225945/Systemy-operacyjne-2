@@ -9,3 +9,6 @@ Napisz skrypt, który w zadanym miejscu w systemie plików (parametr wywołania 
 
 # Skrypt 89:
 Napisz skrypt, który obliczy całkowity rozmiar (sumę) wszystkich otwartych plików w systemie, analizując wynik działania lsof. Wynik podać w Megabajtach.
+
+# Skrypt P3 [PYTHON]:
+Napisz skrypt, który przeniesie wszystkie pliki zwyczajne z danego katalogu źródłowego (parametr wywołania skryptu) do wskazanego katalogu docelowego (parametr wywołania skryptu). Jeśli w docelowym miejscu istnieje już plik o tej samej nazwie, pomijamy przenoszenie. [PYTHON]
