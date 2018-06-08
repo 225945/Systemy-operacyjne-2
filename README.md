@@ -12,3 +12,6 @@ Napisz skrypt, który obliczy całkowity rozmiar (sumę) wszystkich otwartych pl
 
 # Skrypt P3 [PYTHON]:
 Napisz skrypt, który przeniesie wszystkie pliki zwyczajne z danego katalogu źródłowego (parametr wywołania skryptu) do wskazanego katalogu docelowego (parametr wywołania skryptu). Jeśli w docelowym miejscu istnieje już plik o tej samej nazwie, pomijamy przenoszenie. [PYTHON]
+
+# Skrypt T4 [PYTHON]:
+Pobierz plik http://datko.pl/SO2/lipsum.txt - najlepiej użyj programu wget z poziomu konsoli (wget http://datko.pl/SO2/lipsum.txt). Następnie napisz skrypt w języku Python, który wczyta pobrany plik, a później z całej jego zawartości (wypisze na ekran) wszystkie słowa mogące być imionami (tylko i wyłącznie takie; każde znalezione wypisać w nowej linii).
